@@ -8,14 +8,23 @@ Se crearon las siguientes clases en la carpeta Models:
  - Promocion  - Información de cada Promoción (Id, Numero_bicicletas, Pct_descuento = Si quiero 30% coloco 0.70 para simplificar el                                                                                              calculo o si quiero 20% coloco 0.80).
  - Alquiler   - Información de cada Alquiler 
                       (Id,
+		      
                        Id_bicicleta,      (Apunta a la Bicicleta usada)
+		       
                        Id_cliente,        (Apunta al Cliente al que se le alquiló la Bicicleta)
+		       
                        Id_vendedor,       (Apunta al Vendedor que alquiló la Bicicleta)
+		       
                        Id_precios,        (Apunta al Precio usado en el alquiler)
+		       
                        Tiempo,            (Indica cuanto tiempo se alquiló)
+		       
                        Numero_bicicletas, (Indica cuantas bicicletas se alquilaron, para poder calcular si tiene descuento)
+		       
                        Fecha,             (Es la fecha del alquiler)
+		       
                        Cobrar,            (Es el monto a cobrar por el alquiler, este monto se calcula)
+		       
                        ============================================================================
 		       
                        bicicleta          (Tiene los datos de la Bicicleta).
