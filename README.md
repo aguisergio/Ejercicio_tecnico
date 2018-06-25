@@ -43,18 +43,33 @@ Se crearon las siguientes clases en la carpeta Models:
                        . Calcular           (Efectua el calculo de monto a cobrar
                        
  - Datos       - Aquí creamos una clase static del tipo IDictionary para guardar la información del Modelo donde:
+ 
                  . bicicleta                  - Tiene datos de la Bicicletas.
+		 
                  . cliente                    - Tiene datos de los Clientes.
+		 
                  . vendedor                   - Tiene datos de los Vendedores.
+		 
                  . precios                    - Tiene datos de los Precios.
+		 
                  . promocion                  - Tiene datos con las Promociones.
+		 
                  . alquiler                   - Tiene datos de los Alquileres de las Bicicletas.
+		 
                  . Cargar_Alquileres          - Crea una lista de todos los Alquileres.
+		 
                  . Buscar_clientes            - Busca todos los Clientes.
+		 
                  . Buscar_cliente_alquileres  - Busca los Alquileres de un Cliente.
+		 
                  . Buscar_vendedores          - Crea una lista de todos los Vendedores.
+		 
                  . Buscar_vendedor_alquileres - Busca los Alquileres de un Vendedor.
+		 
                  . Completar                  - Completa el Registro, buscando la información que falta del registro Alquiler                                                           (bicicleta, cliente, vendedor, precio, Pct_descuento)
+		 
                  . Bus_promocion              - Calcula el Descuento si tiene Promoción)
+		 
                  . Act_descuento              - Actualiza los datos del alquiler con el Pct_descuento si le corresponde.
+		 
  
