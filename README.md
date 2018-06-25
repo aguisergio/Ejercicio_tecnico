@@ -17,6 +17,7 @@ Se crearon las siguientes clases en la carpeta Models:
                        Fecha,             (Es la fecha del alquiler)
                        Cobrar,            (Es el monto a cobrar por el alquiler, este monto se calcula)
                        ============================================================================
+		       
                        bicicleta          (Tiene los datos de la Bicicleta).
 																							
                        cliente            (Tiene los datos del Cliente).
@@ -28,6 +29,7 @@ Se crearon las siguientes clases en la carpeta Models:
                        Pct_descuento      (Es es descuento a aplicar, este descuento lo calcula el sistema).
 																							
                        ===============================================================================
+		       
                        . Calcular           (Efectua el calculo de monto a cobrar
                        
  - Datos       - Aquí creamos una clase static del tipo IDictionary para guardar la información del Modelo donde:
