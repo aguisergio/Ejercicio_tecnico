@@ -67,7 +67,7 @@ Se crearon las siguientes clases en la carpeta Models:
                  . Buscar_vendedor_alquileres - Busca los Alquileres de un Vendedor.
 		 
                  . Completar                  - Completa el Registro, buscando la información que falta del registro Alquiler  
-		                                (bicicleta, cliente, vendedor, precio, Pct_descuento)
+		                                         (bicicleta, cliente, vendedor, precio, Pct_descuento)
 		 
                  . Bus_promocion              - Calcula el Descuento si tiene Promoción)
 		 
