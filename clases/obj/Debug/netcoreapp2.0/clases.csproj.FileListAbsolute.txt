@@ -1,0 +1,11 @@
+C:\Users\SERGIO\Desktop\CURSOS\clases\bin\Debug\netcoreapp2.0\clases.deps.json
+C:\Users\SERGIO\Desktop\CURSOS\clases\bin\Debug\netcoreapp2.0\clases.runtimeconfig.json
+C:\Users\SERGIO\Desktop\CURSOS\clases\bin\Debug\netcoreapp2.0\clases.runtimeconfig.dev.json
+C:\Users\SERGIO\Desktop\CURSOS\clases\bin\Debug\netcoreapp2.0\clases.dll
+C:\Users\SERGIO\Desktop\CURSOS\clases\bin\Debug\netcoreapp2.0\clases.pdb
+C:\Users\SERGIO\Desktop\CURSOS\clases\obj\Debug\netcoreapp2.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\SERGIO\Desktop\CURSOS\clases\obj\Debug\netcoreapp2.0\clases.AssemblyInfoInputs.cache
+C:\Users\SERGIO\Desktop\CURSOS\clases\obj\Debug\netcoreapp2.0\clases.AssemblyInfo.cs
+C:\Users\SERGIO\Desktop\CURSOS\clases\obj\Debug\netcoreapp2.0\clases.dll
+C:\Users\SERGIO\Desktop\CURSOS\clases\obj\Debug\netcoreapp2.0\clases.pdb
+C:\Users\SERGIO\Desktop\CURSOS\clases\obj\Debug\netcoreapp2.0\clases.csprojResolveAssemblyReference.cache
