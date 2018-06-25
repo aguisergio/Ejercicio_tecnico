@@ -7,6 +7,7 @@ Se crearon las siguientes clases en la carpeta Models:
  - Precios    - Información de cada Precio (Id, Tipo_alquiler = HORA/DIA/SEMANA, Precio).
  - Promocion  - Información de cada Promoción (Id, Numero_bicicletas, Pct_descuento = Si quiero 30% coloco 0.70 para simplificar el                                                                                              calculo o si quiero 20% coloco 0.80).
  - Alquiler   - Información de cada Alquiler 
+ 
                       (Id,
 		      
                        Id_bicicleta,      (Apunta a la Bicicleta usada)
